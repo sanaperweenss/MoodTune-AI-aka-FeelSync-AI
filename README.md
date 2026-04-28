@@ -38,9 +38,7 @@ MoodTune-AI is a real-time AI application that detects user emotions through fac
 
 ---
 
-## 📂 Project Structure
-
-##🚀📌 Future Scope Roadmap (Version-wise)
+## 📂 Future Scope
 🔹 v1.0 – Current System (Baseline)
 ✅ What you already built
 Real-time emotion detection (DeepFace)
