@@ -156,3 +156,71 @@ MOOD_QUERIES = {
 - **AI Model:** DeepFace (VGG-Face / retinaface detector)
 - **Music API:** YouTube Data API v3
 - **Frontend:** Vanilla JS · YouTube IFrame API
+
+## Future Scope
+🔹 v1.0 – Current Version
+Real-time emotion detection (DeepFace)
+
+Mood-based music recommendation
+
+YouTube API integration
+
+Interactive UI with song playback
+
+🔹 v1.1 – UI & Automation
+Auto emotion detection (no button)
+
+Auto-play first recommended song
+
+“Now Playing” section
+
+Loading indicators & smooth UI
+
+🔹 v1.2 – Accuracy Improvement
+Emotion smoothing (multi-frame analysis)
+
+Better mood classification logic
+
+Real-time mood transition handling
+
+🔹 v2.0 – Personalization
+Mood history storage
+
+Recommendations based on:
+
+mood + time
+
+past user behavior
+
+🔹 v2.1 – Analytics
+Mood trends dashboard
+
+Emotion distribution graphs
+
+Most played songs/genres
+
+🔹 v3.0 – Context-Aware System
+Time-based recommendations (morning/night)
+
+Activity-based modes (study, workout, relax)
+
+🔹 v4.0 – Agentic AI Integration
+AI agent that:
+
+analyzes user behavior
+
+makes decisions autonomously
+
+learns from user interactions
+
+Conversational assistant (chat-based music suggestions)
+
+🔹 v5.0 – Deployment & Scaling
+Cloud deployment (Render/Railway)
+
+Mobile-friendly UI
+
+Multi-user support with login
+
+
+
